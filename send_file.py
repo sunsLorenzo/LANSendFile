@@ -42,7 +42,7 @@ for i in range(6):
 	time_stamp += str(time.localtime(time.time())[i])
 
 transport = paramiko.Transport(('192.168.1.101', 22))
-transport.connect(username='sun', password='suns')
+transport.connect(username='username', password='password')
 sftp = paramiko.SFTPClient.from_transport(transport)
 #upload
 
