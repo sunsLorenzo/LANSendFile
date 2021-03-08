@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=send_file
+Comment=
+Exec=/home/sun/Documents/APPs/LANsendfile/send_file
+Icon=
+Path=/home/sun/Desktop
+Terminal=false
+StartupNotify=false
